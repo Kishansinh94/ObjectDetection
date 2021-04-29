@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BrainPascal</folder>
+	<filename>Y11.jpg</filename>
+	<path>E:\Research_Project\Sample_Dataset\BrainPascal\Y11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>369</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tumor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>155</ymin>
+			<xmax>173</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

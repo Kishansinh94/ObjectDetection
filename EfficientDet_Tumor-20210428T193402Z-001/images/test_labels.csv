@@ -1,0 +1,8 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+Y1.jpg,180,218,tumor,21,75,87,140
+Y2.jpg,209,212,tumor,60,50,98,88
+Y3.jpg,456,519,tumor,138,133,202,195
+Y4.jpg,225,225,tumor,50,64,104,126
+Y6.jpg,911,938,tumor,345,651,444,748
+Y7.jpg,374,456,tumor,58,132,135,214
+Y8.jpg,450,446,tumor,159,131,235,227
