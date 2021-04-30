@@ -1,4 +1,4 @@
-### ObjectDetection
+# ObjectDetection
 ## File description
 
 # EfficientDet
@@ -15,6 +15,10 @@
 - File with name is to "train" is for trained model. (Need to install darkent for training) 
 - Model trained on Google colab using darknet as backbone. 
 - Saved model can be used for detection on other brain mri images withou any other installation (even without GPU detection will work smoothly).
+
+# Transfer learning
+ - This is about trasnfer learning used for classification of Brain MRI into two category: with tumot and without tumor using VGG16 based on Imagenet
+ - Folder contains training file without dataset (which is available on github)
 
 
 
